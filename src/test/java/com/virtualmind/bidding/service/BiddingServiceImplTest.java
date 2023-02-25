@@ -4,7 +4,6 @@ import com.virtualmind.bidding.config.BidderConfig;
 import com.virtualmind.bidding.exception.ApplicationException;
 import com.virtualmind.bidding.exception.NotFoundException;
 import com.virtualmind.bidding.model.AuctionResponse;
-import com.virtualmind.bidding.model.BidRequest;
 import com.virtualmind.bidding.model.BidResponse;
 import com.virtualmind.bidding.service.impl.BiddingServiceImpl;
 import org.junit.Assert;
